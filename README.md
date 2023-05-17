@@ -6,6 +6,4 @@ Some description!
 
 watching the YouTube tutorial
 
-now testing if this actually works or not. 
-Why must it be so painful? 
-Because I'm being dumb.
+let's see if I can have more success with this now 
